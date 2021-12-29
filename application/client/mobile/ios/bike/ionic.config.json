@@ -1,0 +1,7 @@
+{
+  "name": "bike",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
